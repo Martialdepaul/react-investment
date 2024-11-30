@@ -1,6 +1,3 @@
-Voici une version mise à jour de votre fichier `README.md`, en précisant qu'il s'agit d'un projet réalisé dans le cadre d'une formation React :
-
-```markdown
 # React Investment 💹
 
 **React Investment** est un projet réalisé dans le cadre de ma formation en React. Il s'agit d'une application qui simule la croissance d'un investissement basé sur des données saisies par l'utilisateur, avec un tableau détaillé des résultats.
