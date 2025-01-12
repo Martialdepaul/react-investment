@@ -19,6 +19,10 @@
 - **React** : Pour construire l'interface utilisateur et gérer l'état.
 - **CSS** : Pour le design et la mise en forme.
 
+ ## 🎨 Aperçu 🖼️
+Voici la captures d'écran de l'application :  
+![Aperçu de Elegant-Context](./src/assets/img.png)
+
 ## 📦 Installation et utilisation
 
 1. **Cloner le dépôt** :
